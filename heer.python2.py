@@ -6,3 +6,4 @@ for i in list1:
     sum=sum+i
 print("sum is",sum)
 #This is addition operation using list
+#this is a mathematical operation
